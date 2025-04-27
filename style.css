@@ -1,0 +1,100 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+span {
+    color: red;
+}
+
+body {
+    height: auto;
+    width: auto;
+    background: linear-gradient(90deg, rgb(63, 172, 240) 0%, rgb(158, 255, 247) 35%, rgb(127, 221, 130) 100%);
+
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+    padding-bottom: 17px;
+
+}
+
+.container1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 6px;
+
+}
+
+.container2 {
+    display: flex;
+    align-items: center;
+    border: 2px solid black;
+    padding: 40px;
+    background-color: aliceblue;
+    border-radius: 30px;
+}
+
+.button:hover {
+    opacity: 0.5;
+}
+
+#name {
+    background-color: aliceblue;
+    border: none;
+    border-bottom: 2px solid rgb(134 190 132);
+}
+
+#email {
+    background-color: aliceblue;
+    border: none;
+    border-bottom: 2px solid rgb(134 190 132);
+}
+
+#password {
+    background-color: aliceblue;
+    border: none;
+    border-bottom: 2px solid rgb(134 190 132);
+}
+
+#number {
+    background-color: aliceblue;
+    border: none;
+    border-bottom: 2px solid rgb(134 190 132);
+}
+
+#date {
+    background-color: aliceblue;
+    border: none;
+    border-bottom: 2px solid rgb(134 190 132);
+}
+
+#address {
+    background-color: aliceblue;
+}
+
+#yourself {
+    background-color: aliceblue;
+}
+
+#profession {
+    background-color: aliceblue;
+    border: none;
+    border-bottom: 2px solid black;
+}
+
+.button {
+    background-color: rgb(137, 91, 255);
+    height: 30px;
+    width: 70px;
+    border-radius: 5px;
+    font-size: 12px;
+    font-family: fantasy;
+}
+
+#pro {
+    background-color: aliceblue;
+}
